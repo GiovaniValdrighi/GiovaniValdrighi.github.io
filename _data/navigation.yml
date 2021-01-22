@@ -1,10 +1,10 @@
 # main links links
 main:
 
-  - title: "Projects"
+  - title: "Projetos"
     url: /projects/    
         
-  - title: "CV"
+  - title: "Currículo"
     url: /cv/
     
   - title: "Guide"
