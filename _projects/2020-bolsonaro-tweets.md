@@ -1,6 +1,6 @@
 ---
 title: "Bolsonaro Tweets"
-collection: publications
+collection: projects
 type: "Undergraduate course"
 permalink: /projects/2020-bolsonaro-tweets
 venue: "FGV, EMAp"
