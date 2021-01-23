@@ -6,9 +6,12 @@ main:
   
   - title: "Teaching"
     url: /teaching/
-    
+
   - title: "Currículo"
     url: /cv/
+
+  - title: "Projetos"
+    url: /portfolio/
     
   - title: "Guide"
     url: /markdown/
