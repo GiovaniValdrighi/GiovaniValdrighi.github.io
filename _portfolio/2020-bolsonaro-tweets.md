@@ -1,6 +1,6 @@
 ---
 title: "Bolsonaro Tweets"
-excerpt: "Análise dos Tweets do Presidente da República Jair Bolsonaro </br> e sua relação com a economia. <br/><img src='/images/bolsonaro_tweets.png'>"
+excerpt: "Análise dos Tweets do Presidente da República Jair Bolsonaro <br/> e sua relação com a economia. <br/><img src='/images/bolsonaro_tweets.png'>"
 collection: portfolio
 ---
 
