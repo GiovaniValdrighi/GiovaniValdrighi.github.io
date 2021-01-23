@@ -17,7 +17,7 @@ Educação
 Academia
 ======
 * Projetos com o PICME:
-  * Estudo da influência de fatores externos no resultado do ENEM utilizando métodos de ciência de dados como bolsista do PICME
+  * Estudo da influência de fatores externos no resultado do ENEM utilizando métodos de ciência de dados.
   * Estudo de métodos de inferência causal com ciência de dados.
   * Desenvolvimento de ferramenta visualização para análise de dados espaços-temporais de eventos urbanos.
 * Monitor do curso de estrutura de dados e algoritmos na EMAp - FGV.
