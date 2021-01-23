@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Currículo"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Educação
 
-Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Ensino médio - ETEC Sales Gomes (2017)
+* Cursando bacharelado em matemática aplicada - FGV (2021)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Academia
 
-Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Projetos com o PICME:
+  * Estudo da influência de fatores externos no resultado do ENEM utilizando métodos de ciência de dados como bolsista do PICME
+  * Estudo de métodos de inferência causal com ciência de dados.
+  * Desenvolvimento de ferramenta visualização para análise de dados espaços-temporais de eventos urbanos.
+* Monitor do curso de estrutura de dados e algoritmos na EMAp - FGV.
+
+Premiações 
+
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2 medalhas de bronze na OBMEP (2011, 2014)
+* 4 medalhas de prata na OBMEP (2012, 2015, 2016, 2017)
+* 1 medalha de ouro na OBMEP (2013)
+* 1 medalha de bronze na OBA (2014)
+
+
