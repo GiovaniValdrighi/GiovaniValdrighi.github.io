@@ -2,16 +2,10 @@
 main:
 
   - title: "Projetos"
-    url: /projects/    
-  
-  - title: "Teaching"
-    url: /teaching/
+    url: /portfolio/
 
   - title: "Currículo"
     url: /cv/
-
-  - title: "Projetos"
-    url: /portfolio/
     
   - title: "Guide"
     url: /markdown/
