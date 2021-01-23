@@ -3,7 +3,10 @@ main:
 
   - title: "Projetos"
     url: /projects/    
-        
+  
+  - title: "Teaching"
+    url: /teaching/
+    
   - title: "Currículo"
     url: /cv/
     
