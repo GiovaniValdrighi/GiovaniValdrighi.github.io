@@ -1,6 +1,6 @@
 ---
 title: "COVID Viz"
-excerpt: "Projeto de visualização dos casos de COVID-19 nos primeiros meses de 2020 no estado de São Paulo. <br/><img src='/images/covid_viz.png'>"
+excerpt: "Projeto de visualização dos casos de COVID-19 nos primeiros <br/> meses de 2020 no estado de São Paulo. <br/><img src='/images/covid_viz.png'>"
 collection: portfolio
 ---
 
